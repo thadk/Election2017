@@ -1,15 +1,15 @@
 ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,Postname,,LikelyIncumbent,IncumbentElected,DistrictPopPlace,,MatchID,Candidates In E.D.,,PARTY,Candidates Count,,COUNTY,Candidates Count
-"YARKPAZUA, EMMANUEL DENIA",Male,Representative,Montserrado,1,Accepted,All Liberian Party (ALP),01,0101,yarkpazua-emmanuel-denia,yarkpazua-0101,,,Careysburg,,0101,14,,All Liberian Party (ALP),56,,Montserrado,212
+"YARKPAZUA, EMMANUEL DENIA",Male,Representative,Montserrado,1,Accepted,All Liberian Party (ALP),01,0101,yarkpazua-emmanuel-denia,yarkpazua-0101,,,Careysburg,,0101,14,,All Liberian Party (ALP),59,,Montserrado,213
 "JANGABA, WEEMOH YATTA",Female,Representative,Montserrado,1,Accepted,Alternative National Congress (ANC),01,0101,jangaba-weemoh-yatta,jangaba-0101,,,Careysburg,,0102,10,,Alternative National Congress (ANC),66,,Nimba,92
 "VARNEY, JAMES MALLEY",Male,Representative,Montserrado,1,Accepted,"Coalition for Democratic Change (CDC)-CDC, NPP & LPDP",01,0101,varney-james-malley,varney-0101,,,Careysburg,,0103,15,,"Coalition for Democratic Change (CDC)-CDC, NPP & LPDP",54,,Grand Cape Mount,37
 "DENNIS, GABRIEL EPHRAIM",Male,Representative,Montserrado,1,Accepted,Coalition for Liberia's Progress (CLP),01,0101,dennis-gabriel-ephraim,dennis-0101,,,Careysburg,,0104,22,,Coalition for Liberia's Progress (CLP),34,,Bong,72
 "DIXON, SR, JOHN M. D.",Male,Representative,Montserrado,1,Accepted,Grassroot Democratic Party OF Liberia (GDPL),01,0101,dixon-sr-john-m-d,dixon-0101,,,Careysburg,,0105,11,,Grassroot Democratic Party OF Liberia (GDPL),23,,Lofa,42
-"BETTIE, SR., SHEDRICK A.",Male,Representative,Montserrado,1,Accepted,Independent Candidates,01,0101,bettie-sr-shedrick-a,bettie-0101,,,Careysburg,,0106,11,,Independent Candidates,73,,Margibi,49
+"BETTIE, SR., SHEDRICK A.",Male,Representative,Montserrado,1,Accepted,Independent Candidates,01,0101,bettie-sr-shedrick-a,bettie-0101,,,Careysburg,,0106,11,,Independent Candidates,73,,Margibi,50
 "MORRIS, LAWRENCE",Male,Representative,Montserrado,1,Accepted,Independent Candidates,01,0101,morris-lawrence,morris-0101,,,Careysburg,,0107,14,,Liberia Transformation Party  (LTP),49,,Grand Bassa,44
 "MULBAH, SYLVESTER G.",Male,Representative,Montserrado,1,Accepted,Independent Candidates,01,0101,mulbah-sylvester-g,mulbah-0101,,,Careysburg,,0108,14,,Liberian National Union (LINU),18,,Bomi,27
 "SATIA, DESIRE S.",Male,Representative,Montserrado,1,Accepted,Independent Candidates,01,0101,satia-desire-s,satia-0101,,,Careysburg,,0109,8,,Liberty Party (LP),41,,Grand Kru,22
 "BARCLAY, JR., WILLIE DOMA",Male,Representative,Montserrado,1,Accepted,Liberia Transformation Party  (LTP),01,0101,barclay-jr-willie-doma,barclay-0101,,,Careysburg,,0110,15,,United People's Party ( UPP),63,,Gbarpolu,27
-"FAHN, S. JOSEN",Male,Representative,Montserrado,1,Accepted,Liberian National Union (LINU),01,0101,fahn-s-josen,fahn-0101,,,Careysburg,,0111,11,,Unity Party (UP),53,,River Gee,25
+"FAHN, S. JOSEN",Male,Representative,Montserrado,1,Accepted,Liberian National Union (LINU),01,0101,fahn-s-josen,fahn-0101,,,Careysburg,,0111,12,,Unity Party (UP),53,,River Gee,26
 "BARRY, RUGIE YATU",Female,Representative,Montserrado,1,Accepted,Liberty Party (LP),01,0101,barry-rugie-yatu,barry-0101,,,Careysburg,,0112,15,,Change Democratic Action (CDA),6,,Grand Gedeh,34
 "GARNETT, E. JONATHAN",Male,Representative,Montserrado,1,Accepted,United People's Party ( UPP),01,0101,garnett-e-jonathan,garnett-0101,,,Careysburg,,0113,8,,Liberian's People's Party (LPP),25,,Rivercess,14
 "FRANCIS, JOSEPHINE GEORGE",Female,Representative,Montserrado,1,Accepted,Unity Party (UP),01,0101,francis-josephine-george,francis-0101,francis-0101,2011,Careysburg,,0114,5,,Movement for Economic Empowerment (MOVEE),54,,Sinoe,19
@@ -42,7 +42,7 @@ ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,
 "PEWEE, GARBEE F.",Male,Representative,Montserrado,4,Accepted,Alternative National Congress (ANC),01,0104,pewee-garbee-f,pewee-0104,,,Wein Town,,0505,9,,,,,,
 "SCOTT, NUWOE A. D.",Female,Representative,Montserrado,4,Accepted,"Coalition for Democratic Change (CDC)-CDC, NPP & LPDP",01,0104,scott-nuwoe-a-d,scott-0104,,,Wein Town,,0601,16,,,,,,
 "WEAHWEAH, JOEHANDSOME F.",Male,Representative,Montserrado,4,Accepted,Coalition for Liberia's Progress (CLP),01,0104,weahweah-joehandsome-f,weahweah-0104,,,Wein Town,,0602,5,,,,,,
-"SUMO, RICHARD G.",Male,Representative,Montserrado,4,Accepted,Grassroot Democratic Party OF Liberia (GDPL),01,0104,sumo-richard-g,sumo-0104,,,Wein Town,,0603,12,,,,,,
+"SUMO, RICHARD G.",Male,Representative,Montserrado,4,Accepted,Grassroot Democratic Party OF Liberia (GDPL),01,0104,sumo-richard-g,sumo-0104,,,Wein Town,,0603,13,,,,,,
 "JALABAH, MALIAN KANNEH",Female,Representative,Montserrado,4,Accepted,Independent Candidates,01,0104,jalabah-malian-kanneh,jalabah-0104,,,Wein Town,,0604,10,,,,,,
 "GABRIEL, JOHN A. A.",Male,Representative,Montserrado,4,Accepted,Independent Candidates,01,0104,gabriel-john-a-a,gabriel-0104,,,Wein Town,,0605,6,,,,,,
 "HOWE, EMMANUEL D.",Male,Representative,Montserrado,4,Accepted,Independent Candidates,01,0104,howe-emmanuel-d,howe-0104,,,Wein Town,,0701,13,,,,,,
@@ -58,7 +58,7 @@ ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,
 "GBARTOE - DOR, MIGBEH SAYE",Male,Representative,Montserrado,4,Accepted,True Whig Party (TWP),01,0104,gbartoe---dor-migbeh-saye,gbartoe-0104,,,Wein Town,,1001,8,,,,,,
 "WARNEE SR., ROBERT B.",Male,Representative,Montserrado,4,Accepted,United People's Party ( UPP),01,0104,warnee-sr-robert-b,warnee-0104,,,Wein Town,,1002,12,,,,,,
 "FAHNBULLEH, HENRY BOIMA",Male,Representative,Montserrado,4,Accepted,Unity Party (UP),01,0104,fahnbulleh-henry-boima,fahnbulleh-0104,fahnbulleh-0104,2011,Wein Town,,1003,7,,,,,,
-"ZAIZAY, ANTHONY AARON",Male,Representative,Montserrado,4,Accepted,Victory for Change Party  (VCP),01,0104,zaizay-anthony-aaron,zaizay-0104,,,Wein Town,,1101,7,,,,,,
+"ZAIZAY, ANTHONY AARON",Male,Representative,Montserrado,4,Accepted,Victory for Change Party  (VCP),01,0104,zaizay-anthony-aaron,zaizay-0104,,,Wein Town,,1101,8,,,,,,
 "TINGBAN, S. YELEKAY",Male,Representative,Montserrado,4,Accepted,Vision for Liberia Transformation (VOLT),01,0104,tingban-s-yelekay,tingban-0104,,,Wein Town,,1102,9,,,,,,
 "YUAN, GRACE Y.",Female,Representative,Montserrado,5,Accepted,All Liberian Party (ALP),01,0105,yuan-grace-y,yuan-0105,,,Paynesville,,1103,9,,,,,,
 "DENNIS, SHIAFA L. A.",Male,Representative,Montserrado,5,Accepted,Alternative National Congress (ANC),01,0105,dennis-shiafa-l-a,dennis-0105,,,Paynesville,,1201,10,,,,,,
@@ -73,7 +73,7 @@ ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,
 "KROMAH, BORBOR BABA",Male,Representative,Montserrado,5,Accepted,United People's Party ( UPP),01,0105,kromah-borbor-baba,kromah-0105,,,Paynesville,,1502,9,,,,,,
 "COSTA, HENRY P.",Male,Representative,Montserrado,6,Accepted,All Liberian Party (ALP),01,0106,costa-henry-p,costa-0106,,,Paynesville,,1503,10,,,,,,
 "ADAMS, KANVEE GAINES",Female,Representative,Montserrado,6,Accepted,Alternative National Congress (ANC),01,0106,adams-kanvee-gaines,adams-0106,,,Paynesville,,#N/A,12,,,,,,
-"TODD, JOSEPH P.",Male,Representative,Montserrado,6,Accepted,"Coalition for Democratic Change (CDC)-CDC, NPP & LPDP",01,0106,todd-joseph-p,todd-0106,,,Paynesville,,,10.22972973,,,,,,
+"TODD, JOSEPH P.",Male,Representative,Montserrado,6,Accepted,"Coalition for Democratic Change (CDC)-CDC, NPP & LPDP",01,0106,todd-joseph-p,todd-0106,,,Paynesville,,,10.27027027,,,,,,
 "SAWYER, SR., K. SOLOMON",Male,Representative,Montserrado,6,Accepted,Coalition for Liberia's Progress (CLP),01,0106,sawyer-sr-k-solomon,sawyer-0106,,,Paynesville,,,,,,,,,
 "ENDERS, SAMUEL REGEN",Male,Representative,Montserrado,6,Accepted,Independent Candidates,01,0106,enders-samuel-regen,enders-0106,,,Paynesville,,,,,,,,,
 "TAYLOR, REGINALD K. S.",Male,Representative,Montserrado,6,Accepted,Independent Candidates,01,0106,taylor-reginald-k-s,taylor-0106,,,Paynesville,,,,,,,,,
@@ -144,6 +144,7 @@ ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,
 "JARGBAH, MILTON J.",Male,Representative,Montserrado,11,Accepted,Movement for Progressive Change (MPC),01,0111,jargbah-milton-j,jargbah-0111,,,Caldwell,,,,,,,,,
 "GREAR, RICHIE GARLEY",Male,Representative,Montserrado,11,Accepted,United People's Party ( UPP),01,0111,grear-richie-garley,grear-0111,,,Caldwell,,,,,,,,,
 "KOON, RICHARD NAGBE",Male,Representative,Montserrado,11,Accepted,Unity Party (UP),01,0111,koon-richard-nagbe,koon-0111,,,Caldwell,,,,,,,,,
+"POURE, TARWUO L.",Male,Representative,Montserrado,11,Accepted,All Liberian Party (ALP),01,0111,poure-tarwuo-l,poure-0111,,,Caldwell,,,,,,,,,
 "NYONTON, LARAAMAND S.",Male,Representative,Montserrado,12,Accepted,All Liberian Party (ALP),01,0112,nyonton-laraamand-s,nyonton-0112,,,Chocolate City,,,,,,,,,
 "CUMMINGS, JOSEPH T. P.",Male,Representative,Montserrado,12,Accepted,Alternative National Congress (ANC),01,0112,cummings-joseph-t-p,cummings-0112,,,Chocolate City,,,,,,,,,
 "WILLIAMS SR., MICHAEL M.",Male,Representative,Montserrado,12,Accepted,Coalition for Liberia's Progress (CLP),01,0112,williams-sr-michael-m,williams-0112,,,Chocolate City,,,,,,,,,
@@ -487,6 +488,7 @@ ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,
 "FAISU, JR., FODAY GEORGE",Male,Representative,Margibi,3,Accepted,True Whig Party (TWP),06,0603,faisu-jr-foday-george,faisu-0603,,,Kakata South,,,,,,,,,
 "MOIBAH, ELIJAH NAGBA",Male,Representative,Margibi,3,Accepted,United People's Party ( UPP),06,0603,moibah-elijah-nagba,moibah-0603,,,Kakata South,,,,,,,,,
 "FALLAH, HENRY SAAH",Male,Representative,Margibi,3,Accepted,Vision for Liberia Transformation (VOLT),06,0603,fallah-henry-saah,fallah-0603,,,Kakata South,,,,,,,,,
+"PHILLIPS II, JOSEPH SIAFFA",Male,Representative,Margibi,3,Accepted,All Liberian Party (ALP),06,0603,phillips-ii-joseph-siaffa,phillips-0603,,,Kakata South,,,,,,,,,
 "WOENIMA, BEGWOE S.",Male,Representative,Margibi,4,Accepted,Alternative National Congress (ANC),06,0604,woenima-begwoe-s,woenima-0604,,,Kakata,,,,,,,,,
 "SLOCUM, HANNAH J.",Female,Representative,Margibi,4,Accepted,"Coalition for Democratic Change (CDC)-CDC, NPP & LPDP",06,0604,slocum-hannah-j,slocum-0604,,,Kakata,,,,,,,,,
 "WEASAH, FRED P.",Male,Representative,Margibi,4,Accepted,Independent Candidates,06,0604,weasah-fred-p,weasah-0604,,,Kakata,,,,,,,,,
@@ -630,6 +632,7 @@ ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,
 "TEAH, GERTRUDE JARKAJUE",Female,Representative,River Gee,1,Accepted,Movement for Democracy and Reconstruction (MDR),11,1101,teah-gertrude-jarkajue,teah-1101,,,,,,,,,,,,
 "TURO, I, KARSLOH SAYGBE",Male,Representative,River Gee,1,Accepted,Movement for Economic Empowerment (MOVEE),11,1101,turo-i-karsloh-saygbe,turo-1101,,,,,,,,,,,,
 "CHEA, JOHNSON TOE",Male,Representative,River Gee,1,Accepted,Unity Party (UP),11,1101,chea-johnson-toe,chea-1101,chea-1101,2011,,,,,,,,,,
+"POURE, ALEXANDER",Male,Representative,River Gee,1,Accepted,All Liberian Party (ALP),11,1101,poure-alexander,poure-1101,,,,,,,,,,,,
 "WUO, IB CHOLOPLAY",Male,Representative,River Gee,2,Accepted,All Liberian Party (ALP),11,1102,wuo-ib-choloplay,wuo-1102,,,Fish Town City,,,,,,,,,
 "WESSEH, TOE K.",Male,Representative,River Gee,2,Accepted,Alternative National Congress (ANC),11,1102,wesseh-toe-k,wesseh-1102,,,Fish Town City,,,,,,,,,
 "TARLESSON, JOSEPHUS N.",Male,Representative,River Gee,2,Accepted,Grassroot Democratic Party OF Liberia (GDPL),11,1102,tarlesson-josephus-n,tarlesson-1102,,,Fish Town City,,,,,,,,,

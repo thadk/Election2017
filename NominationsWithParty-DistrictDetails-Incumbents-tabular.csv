@@ -144,6 +144,7 @@ ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,
 "JARGBAH, MILTON J.",Male,Representative,Montserrado,11,Accepted,Movement for Progressive Change (MPC),01,0111,jargbah-milton-j,jargbah-0111,,,Caldwell
 "GREAR, RICHIE GARLEY",Male,Representative,Montserrado,11,Accepted,United People's Party ( UPP),01,0111,grear-richie-garley,grear-0111,,,Caldwell
 "KOON, RICHARD NAGBE",Male,Representative,Montserrado,11,Accepted,Unity Party (UP),01,0111,koon-richard-nagbe,koon-0111,,,Caldwell
+"POURE, TARWUO L.",Male,Representative,Montserrado,11,Accepted,All Liberian Party (ALP),01,0111,poure-tarwuo-l,poure-0111,,,Caldwell
 "NYONTON, LARAAMAND S.",Male,Representative,Montserrado,12,Accepted,All Liberian Party (ALP),01,0112,nyonton-laraamand-s,nyonton-0112,,,Chocolate City
 "CUMMINGS, JOSEPH T. P.",Male,Representative,Montserrado,12,Accepted,Alternative National Congress (ANC),01,0112,cummings-joseph-t-p,cummings-0112,,,Chocolate City
 "WILLIAMS SR., MICHAEL M.",Male,Representative,Montserrado,12,Accepted,Coalition for Liberia's Progress (CLP),01,0112,williams-sr-michael-m,williams-0112,,,Chocolate City
@@ -487,6 +488,7 @@ ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,
 "FAISU, JR., FODAY GEORGE",Male,Representative,Margibi,3,Accepted,True Whig Party (TWP),06,0603,faisu-jr-foday-george,faisu-0603,,,Kakata South
 "MOIBAH, ELIJAH NAGBA",Male,Representative,Margibi,3,Accepted,United People's Party ( UPP),06,0603,moibah-elijah-nagba,moibah-0603,,,Kakata South
 "FALLAH, HENRY SAAH",Male,Representative,Margibi,3,Accepted,Vision for Liberia Transformation (VOLT),06,0603,fallah-henry-saah,fallah-0603,,,Kakata South
+"PHILLIPS II, JOSEPH SIAFFA",Male,Representative,Margibi,3,Accepted,All Liberian Party (ALP),06,0603,phillips-ii-joseph-siaffa,phillips-0603,,,Kakata South
 "WOENIMA, BEGWOE S.",Male,Representative,Margibi,4,Accepted,Alternative National Congress (ANC),06,0604,woenima-begwoe-s,woenima-0604,,,Kakata
 "SLOCUM, HANNAH J.",Female,Representative,Margibi,4,Accepted,"Coalition for Democratic Change (CDC)-CDC, NPP & LPDP",06,0604,slocum-hannah-j,slocum-0604,,,Kakata
 "WEASAH, FRED P.",Male,Representative,Margibi,4,Accepted,Independent Candidates,06,0604,weasah-fred-p,weasah-0604,,,Kakata
@@ -630,6 +632,7 @@ ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,
 "TEAH, GERTRUDE JARKAJUE",Female,Representative,River Gee,1,Accepted,Movement for Democracy and Reconstruction (MDR),11,1101,teah-gertrude-jarkajue,teah-1101,,,
 "TURO, I, KARSLOH SAYGBE",Male,Representative,River Gee,1,Accepted,Movement for Economic Empowerment (MOVEE),11,1101,turo-i-karsloh-saygbe,turo-1101,,,
 "CHEA, JOHNSON TOE",Male,Representative,River Gee,1,Accepted,Unity Party (UP),11,1101,chea-johnson-toe,chea-1101,chea-1101,2011,
+"POURE, ALEXANDER",Male,Representative,River Gee,1,Accepted,All Liberian Party (ALP),11,1101,poure-alexander,poure-1101,,,
 "WUO, IB CHOLOPLAY",Male,Representative,River Gee,2,Accepted,All Liberian Party (ALP),11,1102,wuo-ib-choloplay,wuo-1102,,,Fish Town City
 "WESSEH, TOE K.",Male,Representative,River Gee,2,Accepted,Alternative National Congress (ANC),11,1102,wesseh-toe-k,wesseh-1102,,,Fish Town City
 "TARLESSON, JOSEPHUS N.",Male,Representative,River Gee,2,Accepted,Grassroot Democratic Party OF Liberia (GDPL),11,1102,tarlesson-josephus-n,tarlesson-1102,,,Fish Town City
