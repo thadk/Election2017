@@ -23,6 +23,7 @@ ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,
 "SHERIFF, DEHKORTEE DEAH",Female,Representative,Montserrado,2,Accepted,Movement for Progressive Change (MPC),01,0102,sheriff-dehkortee-deah,sheriff-0102,,,Careysburg
 "ROGERS, TOM DESTINY",Male,Representative,Montserrado,2,Accepted,United People's Party ( UPP),01,0102,rogers-tom-destiny,rogers-0102,,,Careysburg
 "KANNEH, SEKOU S.",Male,Representative,Montserrado,2,Accepted,Unity Party (UP),01,0102,kanneh-sekou-s,kanneh-0102,kanneh-0102,2011,Careysburg
+"YEASU, KULANYAH ERIC",Male,Representative,Montserrado,2,Accepted,Independent Candidates,01,0102,yeasu-kulanyah-eric,yeasu-0102,,,Careysburg
 "MULBAH, SUMO KOLLIE",Male,Representative,Montserrado,3,Accepted,All Liberian Party (ALP),01,0103,mulbah-sumo-kollie,mulbah-0103,,,Careysburg
 "KOMOYAN, PATRICK",Male,Representative,Montserrado,3,Accepted,Alternative National Congress (ANC),01,0103,komoyan-patrick,komoyan-0103,,,Careysburg
 "LARBLAH, JAMES JAYE",Male,Representative,Montserrado,3,Accepted,Change Democratic Action (CDA),01,0103,larblah-james-jaye,larblah-0103,,,Careysburg
@@ -71,6 +72,7 @@ ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,
 "WEHYE, BENJAMIN YELE",Male,Representative,Montserrado,5,Accepted,Movement for Economic Empowerment (MOVEE),01,0105,wehye-benjamin-yele,wehye-0105,,,Paynesville
 "VINCENT, RETTA A.",Female,Representative,Montserrado,5,Accepted,True Whig Party (TWP),01,0105,vincent-retta-a,vincent-0105,,,Paynesville
 "KROMAH, BORBOR BABA",Male,Representative,Montserrado,5,Accepted,United People's Party ( UPP),01,0105,kromah-borbor-baba,kromah-0105,,,Paynesville
+"WOODS, WILLIAMETTA MARPOO",Female,Representative,Montserrado,5,Accepted,Independent Candidates,01,0105,woods-williametta-marpoo,woods-0105,,,Paynesville
 "COSTA, HENRY P.",Male,Representative,Montserrado,6,Accepted,All Liberian Party (ALP),01,0106,costa-henry-p,costa-0106,,,Paynesville
 "ADAMS, KANVEE GAINES",Female,Representative,Montserrado,6,Accepted,Alternative National Congress (ANC),01,0106,adams-kanvee-gaines,adams-0106,,,Paynesville
 "TODD, JOSEPH P.",Male,Representative,Montserrado,6,Accepted,"Coalition for Democratic Change (CDC)-CDC, NPP & LPDP",01,0106,todd-joseph-p,todd-0106,,,Paynesville
@@ -598,6 +600,7 @@ ASPIRANT'S FULL NAME,GENDER,POSITION,COUNTY,E. D.,STATUS,PARTY,CountyID,MatchID,
 "SNEH, ROSALIND TONNE",Female,Representative,Grand Kru,2,Accepted,Movement for Economic Empowerment (MOVEE),09,0902,sneh-rosalind-tonne,sneh-0902,,,Sasstown Airport
 "DONYEN, NATHANIEL S.",Male,Representative,Grand Kru,2,Accepted,United People's Party ( UPP),09,0902,donyen-nathaniel-s,donyen-0902,,,Sasstown Airport
 "BARTEKWA, NUMENE T. H.",Male,Representative,Grand Kru,2,Accepted,Unity Party (UP),09,0902,bartekwa-numene-t-h,bartekwa-0902,bartekwa-0902,2011,Sasstown Airport
+"YOUNG, MONROE WESSEH",Male,Representative,Grand Kru,2,Accepted,Independent Candidates,09,0902,young-monroe-wesseh,young-0902,,,Sasstown Airport
 "TARNUE, MIATTA S.",Female,Representative,Gbarpolu,1,Accepted,Alternative National Congress (ANC),10,1001,tarnue-miatta-s,tarnue-1001,,,Bopolu
 "KOIWOOD, ALFRED GAYFLOR",Male,Representative,Gbarpolu,1,Accepted,"Coalition for Democratic Change (CDC)-CDC, NPP & LPDP",10,1001,koiwood-alfred-gayflor,koiwood-1001,koiwood-1001,2011,Bopolu
 "JALLAH, DARKOLLIE SYLVESTER",Male,Representative,Gbarpolu,1,Accepted,Coalition for Liberia's Progress (CLP),10,1001,jallah-darkollie-sylvester,jallah-1001,,,Bopolu
