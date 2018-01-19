@@ -5,4 +5,12 @@ We used Tabula https://tabula.nerdpower.org to extract the data from Progressive
 
 Most of the DistrictPopPlace's were extracted from OpenStreetMap using an Overpass Turbo query and joined with the electoral districts supplied by the [Liberia NEC](http://www.necliberia.org/).
 
-Final candidates are due to be released on July 31, 2017.
+## Front page with D3.js map navigation and live coverage ##
+
+<img src="https://user-images.githubusercontent.com/283343/35136049-1b906252-fcaf-11e7-9101-c0cca08423f0.png" width="400"/>
+
+## Index of Candidates and their promises (Wordpress integration) ##
+
+<img src="https://user-images.githubusercontent.com/283343/35136038-fd5e445c-fcae-11e7-8990-6928d890bc54.png" width="400"/>
+
+Built by Liberian developer [Alex Bayoh](https://github.com/Abayoh) with guidance and assistance from [Thad Kerosky](http://thadk.net) iLabLiberia Graduate Summer Fellow 2017 in partnership with Internews Liberia and the Daily Observer.
